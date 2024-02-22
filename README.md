@@ -33,29 +33,6 @@
 
 
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <a href="https://www.linkedin.com/in/markcdunlea" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/mcdunleatate" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-        </a>
-    </div>
-    <div>
-        <a href="mailto:mcdunlea@gmail.com">
-            <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-        </a>
-    </div>
-</div>
-
-### Connect with me:
-
-[![LinkedIn](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg)](https://linkedin.com/in/markcdunlea)
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
