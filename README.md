@@ -1,4 +1,4 @@
-<h3 align="center">Data Scientist</h1>
+<h1 align="center">Data Scientist</h1>
 
 -  Currently Doing [Ethereum Transaction Analysis](https://github.com/mcdunleatate/capstone_project)
 -  I’m looking to collaborate on **Generative AI Testing**
