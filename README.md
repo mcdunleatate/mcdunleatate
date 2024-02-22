@@ -1,4 +1,4 @@
-
+![Portfolio Image](/datat_science_github_image.png)
 <h1 align="center">Data Scientist</h1>
 
 -  Currently Doing [Ethereum Transaction Analysis](https://github.com/mcdunleatate/capstone_project)
